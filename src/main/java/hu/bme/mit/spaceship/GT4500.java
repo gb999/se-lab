@@ -1,4 +1,5 @@
 package hu.bme.mit.spaceship;
+// Mashogy akarom tonkretenni a kodot
 
 /**
 * A simple spaceship with two proton torpedo stores and four lasers
