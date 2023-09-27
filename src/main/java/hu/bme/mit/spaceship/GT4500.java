@@ -1,4 +1,5 @@
 package hu.bme.mit.spaceship;
+// Mashogy akarom tonkretenni a kodot
 // Tonkre akarom tenni a kodot 
 
 /**
